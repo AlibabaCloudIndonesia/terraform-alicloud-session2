@@ -24,18 +24,21 @@ This repository includes:
 
 ## Flow
 1. Init
+
 Terraform init used for initialize  working directory containing Terraform configuration file.
 ```hcl
 $ terraform init
 ```
 
 2. Plan 
+
 Terraform plan used for create an execution plan.
 ```hcl
 $ terraform plan
 ```
 
 3. Apply
+
 Terraform apply used for execute our plan.
 ```hcl
 $ terraform apply
