@@ -7,9 +7,9 @@ After that, the created rules can be triggered by alarm task or scheduled task a
 
 These types of resources are supported:
 
-* [Single ECS with Terraform](#LinkRepo1)
-* [Multiple ECS with Terraform](#LinkRepo2)
-* [Autoscaling ECS with Terraform](#LinkRepo3)
+* [Single ECS with Terraform](https://github.com/AlibabaCloudIndonesia/terraform-alicloud-session2/tree/master/single_ecs)
+* [Multiple ECS with Terraform](https://github.com/AlibabaCloudIndonesia/terraform-alicloud-session2/tree/master/multiple_ecs)
+* [Autoscaling ECS with Terraform](https://github.com/AlibabaCloudIndonesia/terraform-alicloud-session2/tree/master/autoscaling_ecs)
 
 ## Demos
 
