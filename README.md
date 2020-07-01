@@ -43,3 +43,5 @@ Terraform apply used for execute our plan.
 ```hcl
 $ terraform apply
 ```
+
+- dragz17 (Boy Suganda Sinaga) Session #2 Fun with ECS by using Terraform
