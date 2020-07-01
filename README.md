@@ -2,11 +2,9 @@ Alicloud Session 2: fun with ecs
 terraform-alicloud-session2
 ---
 
-Terraform moudle which create auto scaling Rules on Alibaba Cloud. 
-After that, the created rules can be triggered by alarm task or scheduled task automatically.
+Terraform module which creating various objectives on Alibaba Cloud. 
 
-These types of resources are supported:
-
+This repository includes:
 * [Single ECS with Terraform](https://github.com/AlibabaCloudIndonesia/terraform-alicloud-session2/tree/master/single_ecs)
 * [Multiple ECS with Terraform](https://github.com/AlibabaCloudIndonesia/terraform-alicloud-session2/tree/master/multiple_ecs)
 * [Autoscaling ECS with Terraform](https://github.com/AlibabaCloudIndonesia/terraform-alicloud-session2/tree/master/autoscaling_ecs)
