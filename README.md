@@ -28,7 +28,7 @@ These types of resources are supported:
 1. Init
 Terraform init used for initialize  working directory containing Terraform configuration file.
 ```hcl
-terraform init
+$ terraform init
 ```
 
 2. Plan 
